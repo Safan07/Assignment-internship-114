@@ -1,0 +1,10 @@
+class1_lightVehicle
+class2_mediumVehicle
+class3_heavyVehicle
+class4_taxi
+class5_bus
+class_motocycle
+singleWheel
+doubleWheel
+license_plate
+license_plate_taxi
