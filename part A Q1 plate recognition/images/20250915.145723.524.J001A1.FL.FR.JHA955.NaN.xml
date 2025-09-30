@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20250915.145723.524.J001A1.FL.FR.JHA955.NaN.jpg</filename>
+	<path>C:\Users\Safan\OneDrive\Desktop\Safan's Projects\assignment internship\part A Q1 plate recognition\images\20250915.145723.524.J001A1.FL.FR.JHA955.NaN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>class1_lightVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>571</ymin>
+			<xmax>953</xmax>
+			<ymax>1193</ymax>
+		</bndbox>
+	</object>
+</annotation>

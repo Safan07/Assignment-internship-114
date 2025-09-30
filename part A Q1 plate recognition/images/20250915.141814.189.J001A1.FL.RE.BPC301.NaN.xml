@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20250915.141814.189.J001A1.FL.RE.BPC301.NaN.jpg</filename>
+	<path>C:\Users\Safan\OneDrive\Desktop\Safan's Projects\assignment internship\part A Q1 plate recognition\images\20250915.141814.189.J001A1.FL.RE.BPC301.NaN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>class1_lightVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>558</ymin>
+			<xmax>1529</xmax>
+			<ymax>1140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>class1_lightVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>158</ymin>
+			<xmax>124</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
